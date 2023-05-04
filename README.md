@@ -31,13 +31,19 @@ ___
 
 I am, an aspiring devoloper and computer science student from Maldives <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Maldives.
 
-- :telescope: I’m working as a HelpDesk Agent at Senahiya Military Hospital.
-- :studying: Student at Villa College
+- :man_office_worker: I’m working as a HelpDesk Agent at Senahiya Military Hospital.
+- :open_book: Student at Villa College
 
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-
-
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
+
+---
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nishaalnaseer&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishaalnaseer)](https://github.com/anuraghazra/github-readme-stats)
+
+
+#### Learn how to make readme.md profile like mine from [HERE](https://www.sitepoint.com/github-profile-readme/)
