@@ -32,6 +32,7 @@ ___
 I am, an aspiring devoloper and computer science student from Maldives <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Maldives.
 
 - :telescope: I’m working as a HelpDesk Agent at Senahiya Military Hospital.
+- :studying: Student at Villa College
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
