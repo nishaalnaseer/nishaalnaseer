@@ -23,14 +23,15 @@
 
 ___
 
+### :bow_and_arrow: About Me :
+
 <div align="center">
-    <h2>About Me</h2>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 I am, an aspiring devoloper and computer science student from Maldives <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Maldives.
 
--  I’m working as a HelpDesk Agent at Senahiya Military Hospital.
+- :telescope: I’m working as a HelpDesk Agent at Senahiya Military Hospital.
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
