@@ -17,7 +17,7 @@
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=nishaalnaseer&style=flat-square&color=red" alt=""/>
     <h1>
-        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGVkYWFjZjUyOGI5YTBiOTA4NzFiMWMwZGE1OGMzZDMyZjA3N2VkYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXRz/ZDTbix65Me1YDNLDF3/giphy.gif" width="300px"/>
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzljYzU5ODlkOTIzODg4NjI2MDM0ZGRmOTVjZDI5YTYwYTE5M2E4YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/xTiIzJSKB4l7xTouE8/giphy.gif" width="480" height="208"/>
     </h1>
 </div>
 
