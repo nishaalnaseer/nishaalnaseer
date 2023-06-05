@@ -42,10 +42,6 @@ I am, an aspiring devoloper and computer science student from Maldives <img src=
 
 ---
 
-<div style="text-align: center;">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nishaalnaseer&theme=dark&background=000000)](https://git.io/streak-stats)
-</div>
-
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nishaalnaseer&theme=dark&background=000000)](https://git.io/streak-stats)
 
