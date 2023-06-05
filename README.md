@@ -29,7 +29,7 @@ ___
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-I am, an aspiring devoloper and computer science student from Maldives <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Maldives.
+I am, an aspiring devoloper and computer science student from Maldives <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :man_office_worker: I’m working as a HelpDesk Agent at Senahiya Military Hospital.
 - :open_book: Student at Villa College
@@ -45,6 +45,8 @@ I am, an aspiring devoloper and computer science student from Maldives <img src=
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nishaalnaseer&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishaalnaseer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Nishaals's github stats](https://github-readme-stats.vercel.app/api?username=nishaalnaseer&show_icons=true)
 
 ___
 #### Learn how to make readme.md profile like mine from [HERE](https://www.sitepoint.com/github-profile-readme/)
