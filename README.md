@@ -29,7 +29,7 @@ ___
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-I am, an aspiring devoloper and computer science student from Maldives <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+An aspiring developer and computer science student from Maldives <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :man_office_worker: I’m working as a HelpDesk Agent at Senahiya Military Hospital.
 - :open_book: Student at Villa College
