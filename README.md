@@ -34,6 +34,7 @@ An aspiring developer and computer science student from Maldives <img src="https
 
 - :man_office_worker: I’m working as a HelpDesk Agent at Senahiya Military Hospital.
 - :open_book: Student at Villa College
+- ✍️ I dont know when but since i started programming, i think, i have forgotten the spellings of widht and lenght
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
